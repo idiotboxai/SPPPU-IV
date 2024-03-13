@@ -8,7 +8,8 @@ Basic concepts of the hashing:-
      - Similarly Hash function is used to retrieve the data from the hash table.
      - This the use of hash function is to implement hash table.
      - e/q :- consider hash function as key mod 5. The hash table of size 5.
-        ![[Pasted image 20240313112243.png]]
+    [   ![Image Description](image_url)](https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313112243.png)
+
 3)  **Bucket** : The hash function H(Key) is used to map several dictionary entries in the hash table. Each position of the hash table is called as  ==bucket==.
 4) **Collision** : Collision is situation in which hash function returns the same address for more than one record.
         For Example: 
