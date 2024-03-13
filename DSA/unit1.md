@@ -8,18 +8,17 @@ Basic concepts of the hashing:-
      - Similarly Hash function is used to retrieve the data from the hash table.
      - This the use of hash function is to implement hash table.
      - e/q :- consider hash function as key mod 5. The hash table of size 5.
-    [   ![Image Description](https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313112243.png)]
+    [Image Description](https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313112243.png)
 
 3)  **Bucket** : The hash function H(Key) is used to map several dictionary entries in the hash table. Each position of the hash table is called as  ==bucket==.
 4) **Collision** : Collision is situation in which hash function returns the same address for more than one record.
         For Example: 
-        ![[Pasted image 20240313112642.png]]
+      [Image Description]([https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313112642.png])
 5) **Probe :** Each calculation of an address and test for the success is known as ==probe==.
 6) **Synonym** : The set of key that has to the same location are called ==synonyms==. For example - In above given hash table computation 25 and 55 are synonyms.
    
    7) **Overflow** : When hash table becomes full and new record needs to be inserted then it is called as overflow.
-        ![[Pasted image 20240313113247.png]]
-      ![[Pasted image 20240313113424.png]]
+[Image Description]([[https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313113424.png)
     
 8) Perfect hash function : The perfect hash function is a function that maps distinct key elements into the hash table with no collisions.
 
