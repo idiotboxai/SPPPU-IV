@@ -42,7 +42,7 @@ Hashing is an effective way to reduce the number of comparisons. It deals with p
 If a collision occurs, it should be handled by applying collision handling techniques.
 
 ### Hashing Techniques to Explore:
-- [ ] Open Hashing - Chaining
+- [x] Open Hashing - Chaining
 - [ ] Closed Hashing:
   - [ ] Linear Probing
   - [ ] Quadratic Probing
