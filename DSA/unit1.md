@@ -54,5 +54,5 @@ If a collision occurs, it should be handled by applying collision handling techn
 - The number of references each node contains is determined randomly, and it's called its "node level."
 - There are two special nodes in the skip list: the head node, which is the starting node of the list, and the tail node, which is the last node of the list.
 - Skip lists are an efficient implementation of a dictionary using a sorted chain.
-   - [ ] Skip list complete this all
+   - [ ] Skip list complete this all <br>
 ![Skip List Example](https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313124739.png?raw=true)
