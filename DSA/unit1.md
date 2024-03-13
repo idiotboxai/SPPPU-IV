@@ -42,11 +42,11 @@ Hashing is an effective way to reduce the number of comparisons. It deals with p
 If a collision occurs, it should be handled by applying collision handling techniques.
 
 ### Hashing Techniques to Explore:
-- Open Hashing - Chaining
-- Closed Hashing:
-  - Linear Probing
-  - Quadratic Probing
-  - Double Hashing
+- [ ] Open Hashing - Chaining
+- [ ] Closed Hashing:
+  - [ ] Linear Probing
+  - [ ] Quadratic Probing
+  - [ ] Double Hashing
 
 ## Skip List
 - Skip list is a variant of the linked list.
@@ -54,5 +54,5 @@ If a collision occurs, it should be handled by applying collision handling techn
 - The number of references each node contains is determined randomly, and it's called its "node level."
 - There are two special nodes in the skip list: the head node, which is the starting node of the list, and the tail node, which is the last node of the list.
 - Skip lists are an efficient implementation of a dictionary using a sorted chain.
-
+   - [ ] Skip list complete this all
 ![Skip List Example](https://github.com/idiotboxai/SPPPU-IV/blob/main/DSA/Pasted%20image%2020240313124739.png?raw=true)
