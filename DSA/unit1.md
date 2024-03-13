@@ -47,7 +47,8 @@ If a collision occurs, it should be handled by applying collision handling techn
   - [ ] Linear Probing
   - [ ] Quadratic Probing
   - [ ] Double Hashing
-
+## Videos 
+- <a href="https://www.youtube.com/watch?v=hmMYPZ5wLX0&list=PLxM5rzx4f4fwOPORqEZZhaaY5OG0WMZfF&index=1">https://www.youtube.com/watch?v=hmMYPZ5wLX0&list=PLxM5rzx4f4fwOPORqEZZhaaY5OG0WMZfF&index=1</a>
 ## Skip List
 - Skip list is a variant of the linked list.
 - Skip lists are made up of a series of nodes connected one after the other. Each node contains a key and value pair as well as one or more references, or pointers, to nodes further along in the list.
