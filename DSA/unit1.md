@@ -43,7 +43,7 @@ If a collision occurs, it should be handled by applying collision handling techn
 
 ### Hashing Techniques to Explore:
 - [x] Open Hashing - Chaining
-- [x ] Closed Hashing:
+- [x] Closed Hashing:
   - [x] Linear Probing
   - [x] Quadratic Probing
   - [x] Double Hashing
